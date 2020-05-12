@@ -697,5 +697,8 @@
     <ClInclude Include="..\..\..\SRC\analysis\integrator\ExplicitDifference.h">
       <Filter>integrator</Filter>
     </ClInclude>
+    <ClInclude Include="..\..\..\SRC\system_of_eqn\linearSOE\sparseGEN\PFEMLinSOE.h">
+      <Filter>integrator</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
